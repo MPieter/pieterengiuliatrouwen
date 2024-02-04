@@ -264,7 +264,7 @@ function initMap() {
         .bindPopup('<p>Tenuta Mascarini<br/>Strada Provenciale 14 Carmiano-Veglie, 73041 Carmiano, Lecce, Italie</p>');
 
     L.marker([40.399031, 18.020027]).addTo(map)
-        .bindPopup('<p>Chiesa Madre Santa Maria della Grazie<br/>Piazza Libertà, 73012 Campi Salentina, Lecce, Italie</p>')
+        .bindPopup('<p>Chiesa Madre Santa Maria delle Grazie<br/>Piazza Libertà, 73012 Campi Salentina, Lecce, Italie</p>')
         .openPopup();
 }
 
