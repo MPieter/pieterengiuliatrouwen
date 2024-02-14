@@ -162,7 +162,7 @@ $(document).ready(function () {
     }
 
     /********************** Embed youtube video *********************/
-    $('.player').YTPlayer();
+
 
 
     /********************** Toggle Map Content **********************/
@@ -506,3 +506,4 @@ var MD5 = function (string) {
 
     return temp.toLowerCase();
 };
+$('.player').YTPlayer();
